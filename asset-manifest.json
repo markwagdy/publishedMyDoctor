@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/publishedMyDoctor/static/css/main.18e05f4c.chunk.css",
+    "main.js": "/publishedMyDoctor/static/js/main.016d6b75.chunk.js",
+    "main.js.map": "/publishedMyDoctor/static/js/main.016d6b75.chunk.js.map",
+    "runtime-main.js": "/publishedMyDoctor/static/js/runtime-main.ef9dad83.js",
+    "runtime-main.js.map": "/publishedMyDoctor/static/js/runtime-main.ef9dad83.js.map",
+    "static/js/2.0292a1e1.chunk.js": "/publishedMyDoctor/static/js/2.0292a1e1.chunk.js",
+    "static/js/2.0292a1e1.chunk.js.map": "/publishedMyDoctor/static/js/2.0292a1e1.chunk.js.map",
+    "index.html": "/publishedMyDoctor/index.html",
+    "precache-manifest.d305a2c667c42754dd50b5539b81a245.js": "/publishedMyDoctor/precache-manifest.d305a2c667c42754dd50b5539b81a245.js",
+    "service-worker.js": "/publishedMyDoctor/service-worker.js",
+    "static/css/main.18e05f4c.chunk.css.map": "/publishedMyDoctor/static/css/main.18e05f4c.chunk.css.map",
+    "static/js/2.0292a1e1.chunk.js.LICENSE.txt": "/publishedMyDoctor/static/js/2.0292a1e1.chunk.js.LICENSE.txt",
+    "static/media/doctor (1).6ec90edb.svg": "/publishedMyDoctor/static/media/doctor (1).6ec90edb.svg",
+    "static/media/healthcare-medical-concept-medicine-doctor-with-stethoscope-hand-patients-come_34200-313.jpg": "/publishedMyDoctor/static/media/healthcare-medical-concept-medicine-doctor-with-stethoscope-hand-patients-come_34200-313.d2d84a1d.jpg",
+    "static/media/logo.svg": "/publishedMyDoctor/static/media/logo.5d5d9eef.svg",
+    "static/media/thumb-1920-513905.jpg": "/publishedMyDoctor/static/media/thumb-1920-513905.c4864568.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef9dad83.js",
+    "static/js/2.0292a1e1.chunk.js",
+    "static/css/main.18e05f4c.chunk.css",
+    "static/js/main.016d6b75.chunk.js"
+  ]
+}
